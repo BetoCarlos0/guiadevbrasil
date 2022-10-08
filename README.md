@@ -5,41 +5,6 @@
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
 
-## :dart: O guia para alavancar a sua carreira
-
-Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras. 
-
-<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
-</sub>
-
-## ⚠️ Aviso importante
-
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
-
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
-- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
-
-## 💡 Nossa proposta
-
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
-
-## :beginner: Para quem está começando agora
-
-> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-
 ## 📚 ÍNDICE
 
 [👨‍🏫 Sites para estudar programação](#-sites-para-estudar-programação) <br>
@@ -48,12 +13,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [✨ Templates HTML gratuitos](#-templates-html-gratuitos) <br>
 [🪅 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
 [🪡 Geradores de CSS](#-geradores-de-css) <br>
-[🔎 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas) <br>
 [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <br>
 [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos) <br>
-[📝 IDEs e editores de código](#-ides-e-editores-de-código) <br>
 [🖌 Design Front-end](#-design-front-end) <br>
-[🔤 Linguagens de programação](#-linguagens-de-programação) <br>
 [📕 Guia de Estilo](#-guia-de-estilo) <br>
 [📁 Desafios](#-desafios) <br>
 [🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
@@ -82,29 +44,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [📗 Sites para treinar projetos back-end](#-sites-para-treinar-projetos-back-end) <br>
 [📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
 [🛖 Ideias para projeto](#-ideias-para-projeto) <br>
-[🦓 Cursos de Java](#-cursos-de-java) <br>
 [🐴 Cursos de JavaScript](#-cursos-de-javascript) <br>
 [🦄 Cursos de HTML e CSS](#-cursos-de-html-e-css) <br>
-[🐍 Cursos de Python](#-cursos-de-python) <br>
-[🐘 Cursos de PHP](#-cursos-de-php) <br>
 [🦚 Cursos de C#](#-cursos-de-c) <br>
-[🦉 Cursos de C](#-cursos-de-c-1) <br>
-[🐸 Cursos de C++](#-cursos-de-c-2) <br>
-[🦉 Cursos de Camunda](#-cursos-de-camunda) <br>
-[🐶 Cursos de Kotlin](#-cursos-de-kotlin) <br>
-[🐋 Cursos de Swift](#-cursos-de-swift) <br>
-[🐺 Cursos de Go](#-cursos-de-go) <br>
-[🐦 Cursos de Ruby](#-cursos-de-ruby) <br>
-[💧 Cursos de Elixir](#-cursos-de-elixir) <br>
 [🐷 Cursos de React](#-cursos-de-react) <br>
 [🐼 Cursos de React Native](#-cursos-de-react-native) <br>
 [🐯 Cursos de Angular](#-cursos-de-angular) <br>
-[🐞 Cursos de Vue](#-cursos-de-vue) <br>
-[🦂 Cursos de Svelte](#-cursos-de-svelte) <br>
-[🦞 Cursos de Flutter](#-cursos-de-flutter) <br>
-[🐹 Cursos de jQuery](#-cursos-de-jquery) <br>
-[🐢 Cursos de Less](#-cursos-de-less) <br>
-[🐱 Cursos de Sass](#-cursos-de-sass) <br>
 [🐰 Cursos de Bootstrap](#-cursos-de-bootstrap) <br>
 [🐮 Cursos de Git e Github](#-cursos-de-git-e-github) <br>
 
@@ -200,22 +145,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS <br>
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
 - [Animista](https://animista.net) - Criador de animações
-
-## 🔎 Sites para buscar vagas remotas
-
-- [BairesDev](https://www.bairesdev.com) <br>
-- [Bergamot](https://bergamot.io) <br>
-- [Coodesh](https://coodesh.com) <br>
-- [Há Vagas](https://havagas.pt) <br>
-- [Hired](https://hired.com) <br>
-- [JustRemote](https://justremote.co) <br>
-- [Remotar](https://remotar.com.br) <br>
-- [Remote OK](https://remoteok.io) <br>
-- [Strider](https://www.onstrider.com/) <br>
-- [Toptal](https://www.toptal.com) <br>
-- [Turing](https://www.turing.com) <br>
-- [Working Nomads](https://workingnomads.co) <br>
-- [X-Team](https://x-team.com) <br>
 
 ## 🔧 Ferramentas de desenvolvimento:
 
@@ -329,31 +258,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros <br>
 - [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online <br>
 
-## 📝 IDEs e editores de código
-
-- [Atom](https://atom.io/) - Editor de código do GitHub <br>
-- [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS <br>
-- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados <br>
-- [Brackets](http://brackets.io/) - Editor de código da Adobe <br>
-- [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++ <br>
-- [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++ <br>
-- [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM <br>
-- [Geany](https://geany.org/) - Editor de texto poderoso, estável e leve <br>
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains <br>
-- [NeoVim](https://neovim.io/) - Editor de código via terminal <br>
-- [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua <br>
-- [NetBeans](https://netbeans.org/) - IDE gratuita da Apache <br>
-- [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
-- [Code with Mu](https://codewith.mu) - Um editor de código Python simples, para iniciantes <br>
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
-- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python <br>
-- [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes <br>
-- [StackEdit](https://stackedit.io/) - Editor de markdown online <br>
-- [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou <br>
-- [Thonny](https://thonny.org) - IDE Python para iniciantes <br>
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
-
 ## 🖌 Design Front-end
 
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos <br>
@@ -412,39 +316,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 ## 🔤 Linguagens de programação
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <br>
-- [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <br>
-- [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter <br>
-- [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM) <br>
-- [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <br>
-- [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <br>
-- [Go](https://golang.org/) - Linguagem de código aberto para tornar os programadores mais produtivos <br>
-- [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada <br>
-- [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance <br>
-- [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado <br>
-- [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica <br>
-- [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ <br>
-- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos) <br>
-- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <br>
-- [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos <br>
-- [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica <br>
-- [PHP](https://www.php.net/) - A linguagem de programação dominante na web <br>
-- [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial, aprendizado de máquina e chatbots <br>
-- [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina <br>
-- [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica <br>
-- [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem estáticamente tipada para sistemas rápidos, concorrentes, de baixo nível e seguros <br>
-- [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone <br>
-- [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <br>
-- [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
-- [Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html) - Linguagem de programação dinâmica para experimentos de alta performance <br>
 
 ## 📕 Guia de Estilo
 
-- [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb <br>
-- [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb <br>
 - [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google <br>
-- [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google <br>
-- [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google <br>
-- [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google <br>
 
 ## 📁 Desafios
 
@@ -501,22 +376,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Your First Pr](https://twitter.com/yourfirstpr) <br>
 - [Github Explore](https://github.com/explore/) <br>
 
-## 🐧 Melhores distros linux para programadores
-
-- [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
-- [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
-- [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
-- [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu <br>
-- [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora <br>
-- [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint <br>
-- [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE<br>
-- [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux<br>
-- [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon <br>
-- [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
-- [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
-- [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin <br>
-- [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu <br>
-
 ## 🔗 Bibliotecas JavaScript
 
 - [Lax.js](https://github.com/alexfoxy/lax.js) <br>
@@ -538,14 +397,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
-
-## 🎭 Sites para praticar UI/UX
-
-- [Sharpen](https://sharpen.design/) <br>
-- [Daily UI](https://www.dailyui.co/) <br>
-- [UX Challenges](https://uxtools.co/challenges) <br>
-- [Drawerrr](https://drawerrr.com/challenge) <br>
-- [Uplabs](https://www.uplabs.com/challenges) <br>
 
 ## ☁ Ferramentas para hospedar seu site
 
@@ -638,35 +489,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
 - [Noun Project](https://thenounproject.com/photos/) - Banco de imagens stock gratuitas <br>
 
-## 👔 Aumentando o network
-
-- [Guia Dev Brasil](https://linktr.ee/guiadevbrasil) - Guia Dev Brasil <br>
-- [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <br>
-- [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum <br>
-- [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord <br>
-- [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord <br>
-- [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode <br>
-- [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord <br>
-- [Dev.to](https://dev.to/) - Rede social para desenvolvedores <br>
-- [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub <br>
-- [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram <br>
-- [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog <br>
-- [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação. <br>
-
-## 🎠 Sites para baixar e encontrar fontes
-
-- [Adobe Fonts](https://fonts.adobe.com/) <br>
-- [Google fonts](https://fonts.google.com/) <br>
-- [Dafont](https://www.dafont.com/pt/)<br>
-- [NetFontes](https://www.netfontes.com.br/) <br>
-- [Urbanfonts](https://www.urbanfonts.com/pt/) <br>
-- [Befonts](https://befonts.com/) <br>
-- [Fonts space](https://www.fontspace.com/) <br>
-- [1001 fonts](https://www.1001fonts.com/) <br>
-- [Abstract fonts](https://www.abstractfonts.com/) <br>
-- [Fontget](https://www.fontget.com/) <br>
-- [Material Design Icons](https://materialdesignicons.com/) <br>
-
 ## 🧵 Sites de paletas de cores
 
 - [Paletton](https://paletton.com/) <br>
@@ -726,7 +548,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia <br>
 - [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação <br>
 - [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android <br>
-- [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust <br>
 - [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação <br>
 - [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias <br>
 - [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc <br>
@@ -825,46 +646,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
 
-## 🎙 Blogs e Podcasts
-
-- [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
-- [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para <br>
-- [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
-- [Podcast OsProgramadores](https://osprogramadores.com/podcast) - Tudo que você sempre quis saber sobre Programação vida de programador, e também como chegar lá. Entrevistas com profissionais reconhecidos Nacional e Internacionalmente. <br>
-- [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral <br>
-- [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I <br>
-- [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa <br>
-- [Dev.to](https://dev.to/) - Rede social para desenvolvedores <br>
-- [Playcode](https://playcode.com.br/) - Site com algumas dicas para programação <br>
-- [Codenation](https://deploy.codenation.com.br/podcasts/home) <br>
-- [Ambev Tech Talk](https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG): Podcast da Ambev sobre tecnologia e cerveja <br>
-- [Coruja de TI](https://blog.corujadeti.com.br/) - Blog com várias dicas de TI no geral <br>
-- [Cooperati](https://cooperati.com.br/) - Site com algumas informações sobre tecnologia <br>
-- [Zup](https://www.zup.com.br/blog) - Blog com informação sobre tecnologia <br>
-- [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps <br>
-- [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu <br>
-- [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior <br>
-- [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro <br>
-- [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux <br>
-- [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento <br>
-- [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS <br>
-- [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação <br>
-- [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral <br>
-- [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP <br>
-- [Pizza de dados](https://pizzadedados.com/) - Ciência de dados e conselhos de carreira <br>
-- [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
-- [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
-- [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
-- [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
-- [Torne-se um Programador Podcast](https://open.spotify.com/show/50tgLD0cGqINLLLKNDULRl) - Podcast sobre programação e empreendedorismo digital. <br>
-
-## 💼 Business
-
-- [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes <br>
-- [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo <br>
-- [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional <br>
-- [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes <br>
-
 ## 🧭 Web Developer Roadmap
 
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Trilha de caminhos para seguir para se tornar um desenvolvedor WEB <br>
@@ -918,27 +699,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end <br>
 - [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end <br>
 
-## 📙 Sites para treinar projetos mobile
-
-- [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile <br>
-
 ## 🛖 Ideias para projeto
 
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
-## 🦓 Cursos de Java
-
-- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
-- [Maratona Java](https://youtu.be/VKjFuX91G5Q) <br>
-- [Learn Java 8 Full Course in 9 Hours](https://www.youtube.com/watch?v=grEKMHGYyns) <br>
-- [Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5): <br>
-- [Frameworks de Java](https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado) <br>
-- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) <br>
-- [Curso de Java](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) <br>
-- [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
-- [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
-- [Curso de Java 4](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL) <br>
 
 ## 🐴 Cursos de JavaScript
 
@@ -980,33 +745,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG) <br>
 - [Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE) <br>
 
-## 🐍 Cursos de Python
-
-- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
-- [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
-- [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
-- [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
-- [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
-- [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
-- [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
-- [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
-- [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
-
-- [PYTHON 3 COMPLETO CURSO EM VIDEO:](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
-- [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
-- [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
-- [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
-- [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
-- [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
-
-## 🐘 Cursos de PHP
-
-- [Curso de PHP 1](https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) <br>
-- [Curso de PHP 2](https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) <br>
-- [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o) <br>
-- [Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok) <br>
 
 ## 🦚 Cursos de C#
 
@@ -1020,93 +758,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de C# 8](https://www.youtube.com/playlist?list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) <br>
 - [Curso de C# 9](https://www.youtube.com/playlist?list=PLO_xIfla8f1wDmI0Vd4YJLKBJhOeQ3xbz) <br>
 
-## 🦉 Cursos de C
-
-- [Curso de C 1](https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
-- [Curso de C 2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
-- [Curso de C 3](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
-- [Curso de C 4](https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A) <br>
-- [Curso de C 5](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) <br>
-- [Curso de C 6](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) <br>
-- [Curso de C 7](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
-- [Curso de C 8](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
-- [Curso de C 9](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp) <br>
-- [Curso de C 10](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) <br>
-- [Curso de C 11](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) <br>
-- [Curso de C 12](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o) <br>
-- [Curso de C 13](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob) <br>
-- [Curso de C 14](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa) <br>
-- [Curso de C 15](https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) <br>
-- [Curso de C 16](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) <br>
-
-## 🐸 Cursos de C++
-
-- [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
-- [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
-- [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
-- [Curso de C++ 4](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh) <br>
-
-## 🦉 Cursos de Camunda
-
-- [Curso de Camunda 1](https://www.youtube.com/playlist?list=PLb7Px7q28I7UqIdEnZDP0RCPB2wEvO7KW) <br>
-- [Curso de Camunda 2](https://www.youtube.com/watch?v=f9DmrLPMjRM&list=PLc_Oj42KdFQGex3gBjtVZtYWyVhDu0VEo) <br>
-- [Curso de Camunda 3](https://www.youtube.com/watch?v=l-sCUKQZ44s&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv) <br>
-
-## 🐶 Cursos de Kotlin
-
-- [Curso de Kotlin 1](https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) <br>
-- [Curso de Kotlin 2](https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg) <br>
-- [Curso de Kotlin 3](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEpabjij2vyHZnxI7Knrxkj) <br>
-- [Curso de Kotlin 4](https://www.youtube.com/playlist?list=PLAzlSdU-KYwVlDl-939Vv0_r5XhU7zgX1) <br>
-- [Curso de Kotlin 5](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEas_XSKIyaFAp_MS__5j4p) <br>
-- [Curso de Kotlin 6](https://www.youtube.com/playlist?list=PLCTD_CpMeEKSjzbsW_zmVNz23GyOVsdbS) <br>
-- [Curso de Kotlin 7](https://www.youtube.com/playlist?list=PL8ie04dqq7_M8nfPA9DPiAy7NsoZQpVAf) <br>
-- [Curso de Kotlin 8](https://www.youtube.com/playlist?list=PLHZwU4kNI8DXL2ennM5kR8kHm5zwS6hOz) <br>
-- [Curso de Kotlin 9](https://www.youtube.com/playlist?list=PLM8_o_MDe-LElQqV-SZtlyGt8l7iz770r) <br>
-- [Curso de Kotlin 10](https://www.youtube.com/playlist?list=PLufC_h3b0C2BbBfAB3rZXXkhtRDEuQFcq) <br>
-- [Curso de Kotlin 11](https://www.youtube.com/playlist?list=PLDqAb8tE7SQYE7NJqwuku7e1S46MOav6X) <br>
-- [Curso de Kotlin 12](https://www.youtube.com/playlist?list=PLkws8CjXqzRkpooBmF4CdSkDIrcTlSFQS) <br>
-- [Curso de Kotlin 13](https://www.youtube.com/playlist?list=PLRxQg_wrhrC5K3-7eNuP_1KdN2AqIe3Ie) <br>
-- [Curso de Kotlin 14](https://www.youtube.com/playlist?list=PLxcGiBXcK0kblgnLEEC0ZphoG-PRB4x1d) <br>
-- [Curso de Kotlin 15](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEu4XrXKjA48dt1d07FPYP1) <br>
-- [Curso de Kotlin 16](https://www.youtube.com/playlist?list=PLATOxdAcWIvPbiiK0_mn_LTQyS1FBYdaW) <br>
-- [Curso de Kotlin 17](https://www.youtube.com/watch?v=r_6Ku38sA-c&t=11746s) <br>
-- [Curso de Kotlin 18](https://cursos.alura.com.br/course/fundamentos-android-kotlin) <br>
-- [Curso de Kotlin 19](https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt) <br>
-
-## 🐋 Cursos de Swift
-
-- [Curso de Swift 1](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) <br>
-- [Curso de Swift 2](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) <br>
-- [Curso de Swift 2](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm) <br>
-
-## 🐺 Cursos de Go
-
-- [Curso de GO 1](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
-- [Curso de GO 2](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
-- [Curso de GO 3](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) <br>
-- [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
-- [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
-
-## 🐦 Cursos de Ruby
-
-- [Introdução ao Ruby On-Rails](https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) <br>
-- [Curso de Ruby On-Rails 1](https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) <br>
-- [Curso de Ruby On-Rails 2](https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) <br>
-- [Curso de Ruby On-Rails 3](https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0) <br>
-- [Curso de Ruby On-Rails (15 aulas)](https://goo.gl/LcHcn4) <br>
-- [Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP) <br>
-
-## 💧 Cursos de Elixir
-
-- [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY) <br>
-- [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto) <br>
-- [Curso de Elixir 3](https://www.youtube.com/watch?v=XHxRv0f2MEY&list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O&ab_channel=queroser.ninja-FernandoDaciuk) <br>
-- [Curso de Elixir 4](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD&ab_channel=StoneTech) <br>
-- [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM) <br>
-- [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) <br>
-- [ElixirSchool](https://elixirschool.com/pt) <br>
-
 ## 🐷 Cursos de React
 
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) <br>
@@ -1116,51 +767,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) <br>
 - [Curso de React Native com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) <br>
 
-## 🐼 Cursos de React Native
-
-- [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
-- [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) <br>
-- [Curso de React Native 3](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
-- [Curso de React Native 4](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) <br>
-- [Curso de React Native 5](https://www.youtube.com/playlist?list=PLbnAsJ6zlidsqILBeTaeUr7aaWcqAtMrW) <br>
-- [Curso de React Native 6](https://www.youtube.com/playlist?list=PL_Axpn7FrXHSt92vK3EthJCId4mUn7viv) <br>
-- [Curso de React Native 7](https://www.youtube.com/playlist?list=PL4zG19BCs4pdPJzElbUxCykHTClU-B0Ts) <br>
-- [Curso de React Native 8](https://www.youtube.com/playlist?list=PL69eBMqNvxhVer10WY3nxgV0qiO8xenOP) <br>
-- [Curso de React Native 9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) <br>
-- [Curso de React Native 10](https://www.youtube.com/playlist?list=PLAF5G8rnMmBb2XMMfo79GWnsFvuDuLHA7) <br>
-- [Curso de React Native 11](https://www.youtube.com/playlist?list=PLxF2lyHGcERApnjQPgeeEIzJJdGurraMW) <br>
-- [Curso de React Native 12](https://www.youtube.com/playlist?list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw) <br>
-- [Curso de React Native 13](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) <br>
-- [Curso de React Native 14](https://www.youtube.com/playlist?list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h) <br>
-- [Curso de React Native 15](https://www.youtube.com/playlist?list=PLcDaXGnNU58bmEbkYNUHsrLMF6a_AqjF9) <br>
-- [Curso de React Native 16](https://www.youtube.com/playlist?list=PLB5l-YuqoyEFATE6Ax6WXB0P4AGjRDljr) <br>
-- [Curso de React Native 17](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhe_PxwprF0R2fp0UurDZuw) <br>
-- [Curso de React Native 18](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgALv5Vm-ooZo8qYRgCzKSV) <br>
-- [Curso de React Native 19](https://www.youtube.com/playlist?list=PL6sXCB6Pgqf9RbLaxmiSQQXp-a0_j56xe) <br>
-- [Curso de React Native 20](https://www.youtube.com/playlist?list=PLH7791M3Es82ztdPxpeLZXmfBG4tAJloH) <br>
-- [Curso de React Native 21](https://www.youtube.com/playlist?list=PLvVYUfc9tf-JMETwebyYaA4vk3YoXlWAM) <br>
-- [Curso de React Native 22](https://www.youtube.com/playlist?list=PLEk7yXd40KELpioDsnXbGu45nhx9xTbiL) <br>
-- [Curso de React Native 23](https://www.youtube.com/playlist?list=PLg1BUBhZiTHNYFDZUYplk9m0D1hF_tr3j) <br>
-- [Curso de React Native 24](https://www.youtube.com/playlist?list=PLizN3WA8HR1wRbFttKXDdc_yQ5CWj2msJ) <br>
-- [Curso de React Native 25](https://www.youtube.com/playlist?list=PLvmEIQBREIvS_gS6BX5Tk1z61i85BZF7E) <br>
-- [Curso de React Native 26](https://www.youtube.com/playlist?list=PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm) <br>
-- [Curso de React Native 27](https://www.youtube.com/playlist?list=PLBWrrrRI1gZBbmG43QE1hYOsqu5QXjilT) <br>
-- [Curso de React Native 28](https://www.youtube.com/playlist?list=PLd4Jo6d-yhDIOgnG4EueCh2ADbMCJyJoX) <br>
-- [Curso de React Native 29](https://www.youtube.com/playlist?list=PLntXnq2Zot_04VH1IFSZwJspOfKquAyKq) <br>
-- [Curso de React Native 30](https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo) <br>
-- [Curso de React Native 31](https://www.youtube.com/playlist?list=PL9Fgd5f5dgGIjrHsbqQNFUsgo7uQRIAdj) <br>
-- [Curso de React Native 32](https://www.youtube.com/playlist?list=PLTYREodEJtnVW4oseGzb5oCk0Sbd6TumK) <br>
-- [Curso de React Native 33](https://www.youtube.com/playlist?list=PLTYm84ujubwL3aYYWkU9FoZBrkW9GFy2G) <br>
-- [Curso de React Native 34](https://www.youtube.com/playlist?list=PL0CFwZ06NyfKR1x7aYBXBwplNMwa2CMFX) <br>
-- [Curso de React Native 35](https://www.youtube.com/playlist?list=PLTLAlheiUm5G6yzSN0KTBbZwZS8xVKYxI) <br>
-- [Curso de React Native 36](https://www.youtube.com/playlist?list=PLSMIv0i-2Ebmp-FpmJW84UO_48ErxzhAB) <br>
-- [Curso de React Native 37](https://www.youtube.com/playlist?list=PLfDIQS3HDSgmkbsdN-fLVagFdKt7O5tFa) <br>
-- [Curso de React Native 38](https://www.youtube.com/playlist?list=PLA_u3gtc5zsyEgLaTLY7clKiM2IRU4ndI) <br>
-- [Curso de React Native 39](https://www.youtube.com/playlist?list=PLaAoUJDWH9Wqatfwa4SEfyFevrl8QefcN) <br>
-- [Curso de React Native 40](https://www.youtube.com/playlist?list=PLQWFhX-gwJblNXe9Fj0WomT0aWKqoDQ-h) <br>
-- [Curso de React Native 41](https://www.youtube.com/playlist?list=PLyOq2o1zHOI9lAMMKr9OEhm5ZUUA8UX1V) <br>
-- [Curso de React Native 42](https://www.youtube.com/playlist?list=PLLEQmYfSF6FQCrSxRuq-4OCYx8wE67yfV) <br>
-- [Curso de React Native 43](https://www.youtube.com/playlist?list=PLC8ntN5__iMLKFGge64ZXIwFtlMYKh50k) <br>
 
 ## 🐯 Cursos de Angular
 
@@ -1173,96 +779,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de Angular (17 aulas)](https://goo.gl/6rT9ZC) <br>
 - [Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt) <br>
 - [Curso de Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) <br>
-
-## 🐞 Cursos de Vue
-
-- [Library de Vue](https://revue-draggable.vercel.app/) <br>
-- [Vue 3 Notification](https://github.com/kyvg/vue3-notification) <br>
-- [Curso de Vue 1](https://www.youtube.com/playlist?list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh) <br>
-- [Curso de Vue 2](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) <br>
-- [Curso de Vue 3](https://www.youtube.com/playlist?list=PLXik_5Br-zO_xQHAH9GrNR1gAefYWaKxz) <br>
-- [Curso de Vue 4](https://www.youtube.com/playlist?list=PLWhiA_CuQkbDxptXchXrYuGZnhlwnJgOF) <br>
-- [Curso de Vue 5](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT) <br>
-- [Curso de Vue 6](https://www.youtube.com/playlist?list=PLYAyQauAPx8l7G8lTbSv23UTAwbVORY1r) <br>
-- [Curso de Vue 7](https://www.youtube.com/playlist?list=PLygIEirBzJi6qaDltMN44zyVHjbqUa4e-) <br>
-- [Curso de Vue 8](https://www.youtube.com/playlist?list=PLVSNL1PHDWvRbZsrcQ249Ae5MoKrlBTdd) <br>
-- [Curso de Vue 9](https://www.youtube.com/playlist?list=PL0_f8nzxZ-FksYjJ8Oj4WwD13OVE2tNiH) <br>
-- [Curso de Vue 10](https://www.youtube.com/playlist?list=PLSuKjujFoGJ2RBs4bX03JPuqJtHqJme9B) <br>
-- [Curso de Vue 11](https://www.youtube.com/playlist?list=PLCTD_CpMeEKSiIog15wqiNOH52gYn42kW) <br>
-- [Curso de Vue 12](https://www.youtube.com/playlist?list=PLIUcOrGGQI6QaH57pVTWnF8vmPIgp_Jv_) <br>
-- [Curso de Vue 13](https://www.youtube.com/playlist?list=PLJCJl1zIiLEOgN0m46LkNwDfRgLgf__wc) <br>
-- [Curso de Vue 14](https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xqtT7jn6PgzwC2jqdMajP2) <br>
-- [Curso de Vue 15](https://www.youtube.com/playlist?list=PLSsqMeVmrPfHCeWzNeZSC5WitC8yGe4dZ) <br>
-- [Curso de Vue 16](https://www.youtube.com/playlist?list=PLL0TiOXBeDajWIEXDUvQbzjV4D4GiruLy) <br>
-- [Curso de Vue 17](https://www.youtube.com/playlist?list=PLlf-3U45Cg7VwJ2MTT83eREUM1xsndRJa) <br>
-- [Curso de Vue 18](https://www.youtube.com/playlist?list=PL6u1VNwqZdJYGyfb99ct-xF5f3kIy4icr) <br>
-- [Curso de Vue 19](https://www.youtube.com/playlist?list=PLhJsCsTdxwvuMqZJq_5s0bJKbduM3vHNS) <br>
-- [Curso de Vue 20](https://www.youtube.com/playlist?list=PLSk-H3V-Rn5E5DrKFFeROu5j1FaYGA7gl) <br>
-- [Curso de Vue 21](https://www.youtube.com/playlist?list=PLUW39uIualVtC9sciopJGnuOsjZuytE4z) <br>
-
-## 🦂 Cursos de Svelte
-
-- [Curso Intensivo de Svelte](https://www.cod3r.com.br/courses/svelte-intensivo) <br>
-- [Curso de Svelte 1](https://www.youtube.com/playlist?list=PLV8x_i1fqBw2QScggh0pw2ATSJg_WHqUN) <br>
-- [Curso de Svelte 2](https://www.youtube.com/playlist?list=PLPl81lqbj-4J6xcUu7SW4f3Y1ou8X8rRY) <br>
-- [Curso de Svelte 3](https://www.youtube.com/playlist?list=PLvEHfHi6ADDvRNq3tqf13-iQA5hKLKPvV) <br>
-- [Curso de Svelte 4](https://www.youtube.com/playlist?list=PLtEoLIi1AQhWzcCE76KQi4OLHqlDu_XUh) <br>
-- [Curso de Svelte 5](https://www.youtube.com/playlist?list=PLDyYHqVG_tvWnbi94m0SxQeKZW8E4LVnQ) <br>
-- [Curso de Svelte 6](https://www.youtube.com/playlist?list=PLLp1rKaDevPcGSBjdX0jxdUOYQrT_wS8X) <br>
-- [Curso de Svelte 7](https://www.youtube.com/playlist?list=PLNBi2FtnN_UY_bLPWm2_0O8dReEsCNYhv) <br>
-- [Curso de Svelte 8](https://www.youtube.com/playlist?list=PL0dTfY76y54PSpCel0rBb5VR2A-mMnDLJ) <br>
-
-## 🦞 Cursos de Flutter
-
-- [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) <br>
-- [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) <br>
-- [Curso de Flutter 2](https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg) <br>
-- [Curso de Flutter 3](https://www.youtube.com/playlist?list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) <br>
-- [Curso de Flutter 4](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50) <br>
-- [Curso de Flutter 5](https://www.youtube.com/playlist?list=PLrfnI95Js56bWvNYF5ItofdQy3aoJj4tQ) <br>
-- [Curso de Flutter 6](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) <br>
-- [Curso de Flutter 7](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) <br>
-- [Curso de Flutter 8](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) <br>
-- [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) <br>
-- [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) <br>
-
-## 🐹 Cursos de jQuery
-
-- [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7) <br>
-- [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg) <br>
-- [Curso de jQuery 2](https://www.youtube.com/playlist?list=PLcHPNq67CaVnHwfOeK9-7n57aOV6orMSO) <br>
-- [Curso de jQuery 3](https://www.youtube.com/playlist?list=PLH4WTsFKLXIcswDAqSge13AC76FiX4fCk) <br>
-- [Curso de jQuery 4](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04) <br>
-- [Curso de jQuery 5](https://www.youtube.com/playlist?list=PLB-cqguyT0racOkvxOYP6Am-Z0v7sdEcF) <br>
-- [Curso de jQuery 6](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7) <br>
-- [Curso de jQuery 7](https://www.youtube.com/playlist?list=PLtLYd79f_qX9uufvXcgMrG6XVyc0VHlMp) <br>
-- [Curso de jQuery 8](https://www.youtube.com/playlist?list=PLTE0X123tz-yxigJHnmuEgqWeVMI7YI-W) <br>
-- [Curso de jQuery 9](https://www.youtube.com/playlist?list=PLu_qC9Zc8vNwlFP_1hSOXN2906iN_tvBL) <br>
-- [Curso de jQuery 10](https://www.youtube.com/playlist?list=PLYIucmTPLjx6ENmhonMnyu2nai5NAYter) <br>
-- [Curso de jQuery 11](https://www.youtube.com/playlist?list=PLdrT3osfZM8wqtx9pEDyXmbn5NpSRSJOL) <br>
-- [Curso de jQuery 12](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
-
-## 🐢 Cursos de Less
-
-- [Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ) <br>
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) <br>
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) <br>
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) <br>
-
-## 🐱 Cursos de Sass
-
-- [Curso de Sass (18 aulas) /Inglês/](https://goo.gl/DzRv1e) <br>
-- [Curso de Sass ](https://www.youtube.com/watch?v=Wo5t3uUV8n4) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKQXywJB8KMN_-GccZuVf9ag) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL0FXkz5ILg9Y0ADavZORWRUU3mqG80N8s) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) <br>
 
 ## 🐰 Cursos de Bootstrap
 
@@ -1284,15 +800,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de Bootstrap 15](https://www.youtube.com/playlist?list=PL4fEIiChAHVvUZ4AphnSc5GdxL9s6yrnB) <br>
 - [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) <br>
 - [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) <br>
-
-## 🐮 Cursos de Git e Github
-
-- [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
-- [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
-- [Aprenda Git](https://learngitbranching.js.org/) <br>
-- [Git School](https://git-school.github.io/visualizing-git/) <br>
-- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
-- [Git cheat sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)<br>
 
   <details>
     <summary>📝 Necessário para sobrevivencia</summary>
@@ -1392,51 +899,3 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
     ```
   </details>
 
-## 📚 Linha de comando
-- [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
-- [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
-- [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
-
-  <details>
-    <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
-
-  - lista os arquivos presentes no diretório
-    ```bash
-    ls # => lista do diretorio atual 
-    # ou
-    dir / tree /f
-    # ou
-    ls <caminho do diretorio> # => lista do diretorio passado
-    ```
-  - Altera diretório atual
-    ```bash
-    cd #=> volta para a home
-    # ou
-    cd <caminho> #=> leva para o caminho passado
-    ```
-  - Remove arquivo
-    ```bash
-    rm <arquivo>
-    ```
-  - Remove diretório cujo caminho é dado como operando 
-    ```bash
-    rmdir <caminho>
-    # => o diretório deve estar vazio, ou seja, antes você tem que remover todos os arquivos do diretório
-    ```
-  - Escreve na tela o conteúdo do arquivo do caminho dado como operando
-    ```bash
-    cat <arquivo>
-    ```
-  - Escreve na tela o caminho do diretório de trabalho atual
-    ```bash
-    pwd
-    ```
-  - Lista os comandos já executados
-    ```bash
-    history
-    ```
-  - Limpa a tela do terminal
-    ```bash
-    clear # => (clc no Powershell)
-    ```
-  </details>
